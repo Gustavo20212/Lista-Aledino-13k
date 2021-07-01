@@ -1,0 +1,1040 @@
+#EXTM3U
+#EXTINF:0,*Mejor proveedor de IPTV premium | Más de 3000 canales Full HD
+#EXTGRP:unsorted
+https://ia601406.us.archive.org/8/items/MejoradaLaMejorSuscripcion/mejorada%20la%20mejor%20suscripcion.mp4
+#EXTINF:0,listasm3uiptv.com JULIO 2018
+#EXTGRP:unsorted
+https://listasm3uiptv.com/Promosq.mp4
+#EXTINF:0,Canal 26 HD
+#EXTGRP:unsorted
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0,Canal Telemax HD
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
+#EXTINF:0,Argentinísima Satelital
+#EXTGRP:unsorted
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:0,Music Top
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0,ATB Argentina
+#EXTGRP:unsorted
+http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w1698981804.m3u8
+#EXTINF:0,EL 1 WEB TV Universidad de La Matanza
+#EXTGRP:unsorted
+http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+#EXTINF:0,Canal 4 La Matanza
+#EXTGRP:unsorted
+http://panel.dattalive.com:1935/8002/8002/playlist.m3u8
+#EXTINF:0,Señal Provincial San Miguel
+#EXTGRP:unsorted
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:0,TV Universidad - 56.1 TV - La Plata
+#EXTGRP:unsorted
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:0,Radio Sur 105.1 Berisso
+#EXTGRP:unsorted
+http://arcast.tv:1935/envivo/radiosurvideo/playlist.m3u8
+#EXTINF:0,Canal 10 HD Mar del Plata
+#EXTGRP:unsorted
+https://58ee6ee476b11.streamlock.net/transcode/ngrp:canal10_all/chunklist_w751304003_b1596000.m3u8
+#EXTINF:0,Telpin Canal 2 HD Pinamar
+#EXTGRP:unsorted
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:0,CN 3 Pinamar Digital HD
+#EXTGRP:unsorted
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:0,Bunge y El Mar - ITV - Pinamar
+#EXTGRP:unsorted
+http://wowza.telpin.com.ar:1935/camara-bunge/camara-bunge.stream_720p/1.m3u8
+#EXTINF:0,Ostende-La Rambla - ITV - Pinamar
+#EXTGRP:unsorted
+http://wowza.telpin.com.ar:1935/camara-rambla/rambla.stream_720p/1.m3u8
+#EXTINF:0,LRI875 Power Cam - 100.3 TV Pinamar
+#EXTGRP:unsorted
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0,Olavarría 5CTV
+#EXTGRP:unsorted
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+#EXTINF:0,Canal Local El Popular Olavarría
+#EXTGRP:unsorted
+http://186.0.180.11:1935/festival/mp4:festival/chunklist_w2052245235.m3u8
+#EXTINF:0,Urban 106.1 TV HD Pehuajó
+#EXTGRP:unsorted
+http://ar.solumedia.com.ar:1935/2/myStream/playlist.m3u8
+#EXTINF:0,LRI997 LVA 103.3 TV Saladillo
+#EXTGRP:unsorted
+http://panel.dattalive.com:1935/8168/8168/playlist.m3u8
+#EXTINF:0,UNI TV Villa María HD
+#EXTGRP:unsorted
+http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?wowzasessionid=627781768
+#EXTINF:0,Canal 13 Rio Cuarto HD
+#EXTGRP:unsorted
+http://stream2.livestreamingservices.com:1935/viviloendirecto/canal13RC/chunklist_w152110697.m3u8
+#EXTINF:0,TV Ciudad 92.3 Resistencia
+#EXTGRP:unsorted
+http://www.coninfo.net:1935/chacodiapordia/live/playlist.m3u8
+#EXTINF:0,Canal 9 Resistencia
+#EXTGRP:unsorted
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+#EXTINF:0,Canal 5 TV Corrientes
+#EXTGRP:unsorted
+http://www.coninfo.net:1935/tvcinco/live2/playlist.m3u8
+#EXTINF:0,Genesis 102.5 Caseros
+#EXTGRP:unsorted
+https://589ff3c36f7e8.streamlock.net/genesishd/genesishd/playlist.m3u8
+#EXTINF:0,Lapacho TV Formosa
+#EXTGRP:unsorted
+http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/playlist.m3u8
+#EXTINF:0,Canal 4 HD San Salvador de Jujuy
+#EXTGRP:unsorted
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+#EXTINF:0,Medios Rioja La Rioja HD
+#EXTGRP:unsorted
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+#EXTINF:0,Canal 8 Tunuyán
+#EXTGRP:unsorted
+http://stream02.shockmedia.com.ar:1935/canal2tunuyan/canal2tunuyan/chunklist_w1697328820.m3u8
+#EXTINF:0,Acequia TV Mendoza
+#EXTGRP:unsorted
+http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
+#EXTINF:0,Canal 4 Posadas Opción 1
+#EXTGRP:unsorted
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:0,Canal 4 Posadas Opción 3
+#EXTGRP:unsorted
+https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8
+#EXTINF:0,Misiones Cuatro
+#EXTGRP:unsorted
+https://58ee6ee476b11.streamlock.net/live/zencast5/chunklist.m3u8
+#EXTINF:0,Canal 6 Digital Posadas
+#EXTGRP:unsorted
+https://589ff3c36f7e8.streamlock.net/noticiasdel6/noticiasdel6/chunklist.m3u8
+#EXTINF:0,UNAM Posadas
+#EXTGRP:unsorted
+http://184.154.28.210:1935/unm/unm/playlist.m3u8
+#EXTINF:0,RTN TV Neuquén
+#EXTGRP:unsorted
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
+#EXTINF:0,LU92 TVRionegrina Canal 10 TV General Roca Opción 1
+#EXTGRP:unsorted
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:0,LU92 TVRionegrina Canal 10 TV General Roca Opción 2
+#EXTGRP:unsorted
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
+#EXTINF:0,Canal 9 Salta
+#EXTGRP:unsorted
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0,Canal 4 San Juan
+#EXTGRP:unsorted
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
+#EXTINF:0,1020 TV San Juan
+#EXTGRP:unsorted
+http://149.56.98.140:9090/hls/am1020_low.m3u8
+#EXTINF:0,Aire de Santa Fe 91.1 TV
+#EXTGRP:unsorted
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u
+#EXTINF:0,Litus TV Santa Fé
+#EXTGRP:unsorted
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0,Supercanal Canal 5 Tucumán
+#EXTGRP:unsorted
+http://5.179.201.88:1935/golive/59_179_live/playlist.m3u8
+#EXTINF:0,Canal Rural
+#EXTGRP:unsorted
+http://streamyes.alsolnet.com/elrural/elrural.smil/chunklist_w1494956791_b337000_slesp.m3u8
+#EXTINF:0,TV 29 Ensenada
+#EXTGRP:unsorted
+http://panel.dattalive.com:1935/8008/8008/playlist.m3u8
+#EXTINF:0,Top - 104.9 TV - CABA FM - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0005
+#EXTINF:0,BBC World News - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0009
+#EXTINF:0,CGTN Español - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0011
+#EXTINF:0,chTV Chacra TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
+#EXTINF:0,DW - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+#EXTINF:0,El Garage TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0016
+#EXTINF:0,Fashion TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0018
+#EXTINF:0,France24 English - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
+#EXTINF:0,Musictop - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0024
+#EXTINF:0,NHK World - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
+#EXTINF:0,Rai 5 - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0026
+#EXTINF:0,Rai Movie - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
+#EXTINF:0,Rai News24 - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0029
+#EXTINF:0,Rai Premium - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
+#EXTINF:0,Rai Yoyo - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0032
+#EXTINF:0,DxTV - 24.1 TV - CABA TV TDA - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
+#EXTINF:0,Canal 26 - 24.2 TV - CABA TV TDA - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
+#EXTINF:0,Telemax - 26.3 TV - CABA TV TDA - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
+#EXTINF:0,Canal 22 - Web   TV - CABA TV Web - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
+#EXTINF:0,Life Classic - Web   TV - CABA TV Web - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0059
+#EXTINF:0,Canal 4 - 4 TV - Berazategui - GB Gran Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
+#EXTINF:0,UN3 - ITV - Caseros - GB Gran Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0064
+#EXTINF:0,Quilmes Visión - 29 TV - Quilmes - GB Gran Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0067
+#EXTINF:0,El 1 webTV - ITV - San Justo - GB Gran Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0069
+#EXTINF:0,Provincial - 2CTV - San Miguel - GB Gran Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0070
+#EXTINF:0,LRI351 Ser - 89.7 TV - Tristan Suarez - GB Gran Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
+#EXTINF:0,TeleBa - 4CTV - Balcarce - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0073
+#EXTINF:0,RSTV - 105.1 TV - Berisso - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0076
+#EXTINF:0,TeleJunín - 2CTV - Junín - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0078
+#EXTINF:0,Cool iHD - 103.7 TV - La Plata - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
+#EXTINF:0,Clima + Servicios - 66CTV - Mar del Plata TV - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
+#EXTINF:0,LU82 Canal 10 - 43.1TV - Mar del Plata TV - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
+#EXTINF:0,Local Olavarría - 5CTV - Olavarría - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
+#EXTINF:0,LRI966 Cadena 103 - 103.1 TV - Olavarría - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
+#EXTINF:0,Urban - 106.1 TV - Pehuajó - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
+#EXTINF:0,Bunge y El Mar - ITV - Pinamar - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0090
+#EXTINF:0,Bunge-Libertador - ITV - Pinamar - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0091
+#EXTINF:0,Ostende-La Rambla - ITV - Pinamar - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0092
+#EXTINF:0,Pinamar Golf - ITV - Pinamar - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0093
+#EXTINF:0,Telpin t2 - 2CTV - Pinamar - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0094
+#EXTINF:0,Pinamar TV - 3 TV - Pinamar - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0095
+#EXTINF:0,LRI875 Power - 100.3 TV - Pinamar - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0096
+#EXTINF:0,P24 TV - 102.3 TV - Pinamar - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0097
+#EXTINF:0,LRI997 LVA - 103.3 TV - Saladillo - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0098
+#EXTINF:0,ATCCO - 2CTV - San Cte del Tuyú - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0099
+#EXTINF:0,Av 32 y 2 - ITV - Santa Teresita - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0100
+#EXTINF:0,AVC Atlántica - 2CTV - Santa Teresita - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0101
+#EXTINF:0,LU24 Tres Arroyos - 820 TV - Tres Arroyos - BA Buenos Aires
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0103
+#EXTINF:0,Canal 79 - 2CTV - SFV de Catamarca - CA Catamarca
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0104
+#EXTINF:0,LRK471 Provincia - 7.1TV - SFV de Catamarca - CA Catamarca
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0105
+#EXTINF:0,Ciudad - 92.3 TV - Resistencia - CC Chaco
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0108
+#EXTINF:0,ETC - 4CTV - Esquel - CH Chubut
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0110
+#EXTINF:0,Total - 92.5 TV - Puerto Madryn - CH Chubut
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0111
+#EXTINF:0,LV80 10 SRT - 31.2TV - Cordoba  TV - CO Cordoba
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0117
+#EXTINF:0,LV81 12 El Doce - 40.1TV - Cordoba  TV - CO Cordoba
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0118
+#EXTINF:0,Canal Seis - 6 TV - Corral de Bustos - CO Cordoba
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0119
+#EXTINF:0,Canal 2 - 2CTV - Deán Funes - CO Cordoba
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0120
+#EXTINF:0,Good Radio - 101.1 TV - Jesús María - CO Cordoba
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0122
+#EXTINF:0,Sampacho Television - TV - Sampacho - CO Cordoba
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
+#EXTINF:0,Tv Maná - 40 TV - San Francisco - CO Cordoba
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0129
+#EXTINF:0,5tv - 5 TV - Corrientes - CR Corrientes
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0132
+#EXTINF:0,T5 Satelital - 5STV - Corrientes - CR Corrientes
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0133
+#EXTINF:0,13 Max - 32.1TV - Corrientes - CR Corrientes
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0135
+#EXTINF:0,Tele Diez - 10 TV - Ps de los Libres - CR Corrientes
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0136
+#EXTINF:0,Canal De Las Aldeas - 3 TV - Aldea Brasilera - ER Entre Rios
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0137
+#EXTINF:0,LRM774 Génesis - 102.5 TV - Caseros - ER Entre Rios
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0138
+#EXTINF:0,LRI450 TV Litoral - 9 TV - Paraná - ER Entre Rios
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
+#EXTINF:0,Litoral - 103.1 TV - Paraná - ER Entre Rios
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0140
+#EXTINF:0,LRI501 Canal 10 - 10 TV - San José - ER Entre Rios
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0141
+#EXTINF:0,FTC - 3 TV - Formosa  TV - FO Formosa
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0142
+#EXTINF:0,LT88 Lapacho 11 - 29.1 TV - Formosa  TV - FO Formosa
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
+#EXTINF:0,TC2 - 2 TV - Ciudad Perico - JU Jujuy
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
+#EXTINF:0,Canal 2 - 2CTV - San S de Jujuy - JU Jujuy
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0146
+#EXTINF:0,Canal 4 - 4CTV - San S de Jujuy - JU Jujuy
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0147
+#EXTINF:0,CPEtv - 2CTV - Santa Rosa - LP La Pampa
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0148
+#EXTINF:0,Canal 2 - 2 TV - La Rioja TV - LR La Rioja
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0149
+#EXTINF:0,Fenix - 11 TV - La Rioja TV - LR La Rioja
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0150
+#EXTINF:0,Coope TV - 55 TV - Mendoza  TV - ME Mendoza
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0151
+#EXTINF:0,Acequia - 29.1TV - Mendoza  TV - ME Mendoza
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0152
+#EXTINF:0,LV83 Televida 9 - 33.1TV - Mendoza  TV - ME Mendoza
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0154
+#EXTINF:0,Valle de Uco - 8 TV - Tunuyán - ME Mendoza
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0156
+#EXTINF:0,Noticias del 6 - 6 TV - Posadas  TV - MI Misiones
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0159
+#EXTINF:0,Misiones Cuatro - 8 TV - Posadas  TV - MI Misiones
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0160
+#EXTINF:0,TVM - 27 TV - Posadas  TV - MI Misiones
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0161
+#EXTINF:0,CN 24/7 - 17CTV - Neuquén - NQ Neuquen
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0162
+#EXTINF:0,Canal 79 - CTV - SM de los Andes - NQ Neuquen
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0164
+#EXTINF:0,LU93 El Seis - 27.1TV - SC de Bariloche - RN Rio Negro
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0166
+#EXTINF:0,Multivisión 9 - 9 TV - Salta  TV - SA Salta
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0167
+#EXTINF:0,TV5 - 5CTV - El Calafate - SC Santa Cruz
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0168
+#EXTINF:0,LU85 Canal 9 - 9 TV - Rio Gallegos TV - SC Santa Cruz
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0169
+#EXTINF:0,Light - 97.3 TV - San Juan - SJ San Juan
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0173
+#EXTINF:0,Canal 79 - CTV - San Juan  TV - SJ San Juan
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0174
+#EXTINF:0,TLS 5 Telesol - 36.1TV - San Juan  TV - SJ San Juan
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0178
+#EXTINF:0,Play - 94.9 TV - Alcorta - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0179
+#EXTINF:0,CL3 Cablevisión - 3CTV - Chañar Ladeado - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0183
+#EXTINF:0,TDC HD - CTV - Firmat - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0184
+#EXTINF:0,5RTv - CTV - Recreo - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0186
+#EXTINF:0,Latina - 94.5 TV - Rosario - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0189
+#EXTINF:0,Canal 69 - 69 TV - Santa Eufemia - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0192
+#EXTINF:0,Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0193
+#EXTINF:0,Mas - 95.9 TV - Santa Fe - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0194
+#EXTINF:0,C5SF - 5 TV - Santa Fe  TV - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0195
+#EXTINF:0,Litus TV - 28.1TV - Santa Fe  TV - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0196
+#EXTINF:0,CTVO - CTV - Villa Ocampo - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0197
+#EXTINF:0,TN5 Supercanal - 5CTV - San M de Tucuman - TU Tucuman
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0199
+#EXTINF:0,Metro TV - 12 TV - San M de Tucuman - TU Tucuman
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0201
+#EXTINF:0,La Salada - 1300 TV - CABA AM - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0002
+#EXTINF:0,ATB Argentina - 42 TV - CABA TV Aire - CD Cd Aut Bs As
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0006
+#EXTINF:0,Mega
+#EXTGRP:unsorted
+http://server5.stweb.tv:1935/mega983/live/playlist.m3u8
+#EXTINF:0,Colonia
+#EXTGRP:unsorted
+http://195.154.182.222:25223/live.mp3
+#EXTINF:0,Belgrano
+#EXTGRP:unsorted
+http://195.154.182.222:25224/live.mp3
+#EXTINF:0,Con Vos
+#EXTGRP:unsorted
+http://server6.stweb.tv:1935/rcvos/live/chunklist.m3u8
+#EXTINF:0,Klimax
+#EXTGRP:unsorted
+http://streamall.alsolnet.com:443/klimaxok
+#EXTINF:0,LRJ518 Canal 4 TV San Juan
+#EXTGRP:unsorted
+http://streammax.alsolnet.com:332/canal4sanjuansd/live/playlist.m3u8
+#EXTINF:0,Radio Disney
+#EXTGRP:unsorted
+http://disneyargradio-lh.akamaihd.net/i/ARG_Disney_RADIO@102438/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0,ESPN Radio
+#EXTGRP:unsorted
+http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0,Tv Loncho
+#EXTGRP:unsorted
+http://stmv2.srvstm.com/alonso3439/alonso3439/playlist.m3u8
+#EXTINF:0,09 AMERICA TV HD
+#EXTGRP:unsorted
+https://stream01-xrolaglsgc.stackpathdns.com/video/BJQRNMF6b.m3u8
+#EXTINF:0,19 Canal 26 | HD
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8#EXTGRP:VARIADOhttp://adtv.ercdn.net/adsport2/adsport2_720p.m3u8#EXTGRP:VARIADOhttp://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#EXTGRP:unsortedhttp://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
+#EXTINF:0,DeporTV (Argentina)
+#EXTGRP:unsorted
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:0,Canal 4 (Argentina)
+#EXTGRP:unsorted
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8# EXTINF: 0,24 / 7 Noticiashttp://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8# EXTINF: 0, Music Top (ARG)http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:0,Canal 26 1
+#EXTGRP:unsorted
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Canal 4 Jujuy
+#EXTGRP:unsorted
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Telemax
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,Aire de Santa Fe
+#EXTGRP:unsorted
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:0,Garage TV
+#EXTGRP:unsorted
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:0,Canal 26 (Argentina)
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:0,Power HD Argentina
+#EXTGRP:unsorted
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,TLX
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Mega TV Araquipa
+#EXTGRP:unsorted
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+#EXTINF:0,ARGENTINA:Cool 103.7
+#EXTGRP:unsorted
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:0,ARGENTINA:Europa Europa
+#EXTGRP:unsorted
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
+#EXTINF:0,Music Top Argentina
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0,Canal 9 Salta
+#EXTGRP:unsorted
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?
+#EXTINF:0,Canal Capital
+#EXTGRP:unsorted
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+#EXTINF:0,Canal 9 Salta
+#EXTGRP:unsorted
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1539863470.m3u8
+#EXTINF:0,Canal Provincial San Miguel
+#EXTGRP:unsorted
+http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+#EXTINF:0,5TV Corrientes
+#EXTGRP:unsorted
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:0,Canal 4 Posadas
+#EXTGRP:unsorted
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:0,Canal 11 Formosa
+#EXTGRP:unsorted
+http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/index.m3u8
+#EXTINF:0,Garage TV
+#EXTGRP:unsorted
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:0,Radio TV Neuquen
+#EXTGRP:unsorted
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:0,Urbano 106.1 FM Pehuajo
+#EXTGRP:unsorted
+http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
+#EXTINF:0,Extrema TV
+#EXTGRP:unsorted
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,Pinguino TV
+#EXTGRP:unsorted
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:0,Mundo Auto
+#EXTGRP:unsorted
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:0,Real Madrid TV
+#EXTGRP:unsorted
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?tecnotv.info?iptv.m3u8?sd=10&rebase=on
+#EXTINF:0,iptvtools_126
+#EXTGRP:unsorted
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:0,MLB USA
+#EXTGRP:unsorted
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0,DEPORT TV OP03
+#EXTGRP:unsorted
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0,DEPOR TV OP05
+#EXTGRP:unsorted
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
+#EXTINF:0,RETRO TV
+#EXTGRP:unsorted
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,MC Play
+#EXTGRP:unsorted
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0,SON POPULAR
+#EXTGRP:unsorted
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+#EXTINF:0,type="stream"  title="MUSICA" - M2O TV
+#EXTGRP:unsorted
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,type="stream"  title="MUSICA" -  Melody Channel
+#EXTGRP:unsorted
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0,type="stream"  title="MUSICA" -  Teleritmo
+#EXTGRP:unsorted
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+#EXTINF:0,type="stream"  title="MUSICA" -  Top Latino
+#EXTGRP:unsorted
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:0,type="stream"  title="MUSICA" - RETRO Music Television
+#EXTGRP:unsorted
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0,type="stream"  title="MUSICA" - Heart TV
+#EXTGRP:unsorted
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,Telpin
+#EXTGRP:unsorted
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?
+#EXTINF:0,ARG CANAL 26 HD
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0,CDO Deportes
+#EXTGRP:unsorted
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w2122173553.m3u8
+#EXTINF:0,Garage TV
+#EXTGRP:unsorted
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:0,UNITEVE VILLA AMRIA
+#EXTGRP:unsorted
+http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?wowzasessionid=1242977139
+#EXTINF:0,CIUDAD TV CHACO
+#EXTGRP:unsorted
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:0,TLX
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:0,Litoral - 103.1 TV - Paraná - ER Entre Rios
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
+#EXTINF:0,Chaco tv 22
+#EXTGRP:unsorted
+https://57ae34bc31d8d.streamlock.net/8180/8180/chunklist_w825026000.m3u8
+#EXTINF:0,ARGENTINA:Canal 5 Telesol
+#EXTGRP:unsorted
+http://149.56.98.124:9090/hls/telesol.m3u8
+#EXTINF:0,TRA
+#EXTGRP:unsorted
+http://tra01.streamprolive.com/hls/live.m3u8
+#EXTINF:0,ANCALAO RADIO
+#EXTGRP:unsorted
+http://stmv3.questreaming.com/ancaloo/ancaloo/playlist.m3u8?wowzasessionid=2106600667
+#EXTINF:0,RADIO FORMOSA 88.1
+#EXTGRP:unsorted
+https://aertvstream.com:444/live/59e14ad6074ce/index.m3u8
+#EXTINF:0,ATB ARGENTINA
+#EXTGRP:unsorted
+http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/chunklist_w208233256.m3u8
+#EXTINF:0,5RTv - CTV - Recreo - ST Santa Fe
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0193
+#EXTINF:0,Acequia - 29.1TV - Mendoza  TV - ME Mendoza
+#EXTGRP:unsorted
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0158
+#EXTINF:0,I MUSIC
+#EXTGRP:unsorted
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:0,RIVER TV
+#EXTGRP:unsorted
+https://kalhlspd-a.akamaihd.net/fhls/p/1164832/sp/116483200/serveFlavor/entryId/0_qc5xtm8o/v/2/ev/6/flavorId/0_8s0un0lm/name/a.mp4/index.m3u8
+#EXTINF:0,MISIONES 4
+#EXTGRP:unsorted
+https://58ee6ee476b11.streamlock.net/live/zencast5/chunklist_w155500594.m3u8
+#EXTINF:0,CANAL 9 LITORAL
+#EXTGRP:unsorted
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1259692347.m3u8
+#EXTINF:0,UNIRIO TV
+#EXTGRP:unsorted
+https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w382997042.m3u8
+#EXTINF:0,Canal 7 Catamarca
+#EXTGRP:unsorted
+https://58ee6ee476b11.streamlock.net/live/smil:catamarca/chunklist_w1858042525_b1896000.m3u8
+#EXTINF:0,TELEUNIVERSO CANAL 29
+#EXTGRP:unsorted
+http://ss1.domint.net:2302/tu_str/universo/chunklist_w197342393.m3u8
+#EXTINF:0,TV VER VENEZUELA
+#EXTGRP:unsorted
+https://59b782181fb20.streamlock.net:455/tves2/tves2/chunklist_w383483735.m3u8
+#EXTINF:0,MICRIVISION HD
+#EXTGRP:unsorted
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1864019893.m3u8
+#EXTINF:0,FM HOT CHILE PELIS
+#EXTGRP:unsorted
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w1050825560_b1500000_slesp.m3u8
+#EXTINF:0,CANAL 6 DIGITAL
+#EXTGRP:unsorted
+https://589ff3c36f7e8.streamlock.net/noticiasdel6/noticiasdel6/chunklist_w443872312.m3u8
+#EXTM3U
+#EXTINF:0,UTN TV
+#EXTGRP:unsorted
+https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAR4AAACwCAMAAADudvHOAAAAkFBMVEUAAAD////+/v5zc3NfX1+6urrb29sbGxs1NTXy8vJkZGTj4+OgoKAXFxfKysr7+/tXV1f09PTo6OjT09Pe3t7CwsKVlJQnJyfm5uYsLCywr6/Ozs4+Pj58fHysq6qmpqZFRUUQEBCOjo5QTUyEg4JjY2M4ODggICBEQkGbmpkmIyJ1dXUfGhgOBQBubGwVERC2ee6nAAAUY0lEQVR4nOWd2ZqqOBCACQKCIKuIIMji1mpLv//bDUlA2URIwNPfdN3MGVsh/CSpSqWqwoAWCWNmClHQxTn6C8XzsytGXLDmLVMyDI1te4hRhGn7cE3/BG2isCPhqYijB6EqbLSP4dEOIz9BLqP1nqbE+oXfGp/BYy6meIJJ8UDxZxf1E3iEaJr2T4wnE5FLVpPjUc/TNH56PJksOWtiPPxELZ9mam", 5R TV Santa Fe
+#EXTGRP:unsorted
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAA2FBMVEX/////cCL/fxv/ghrx6dr/eR7w7+Lx693/eQD/dwD/ZwD/eADw7eD/bx//fAD/dQD/YgD/cQD/bBb/dx//fB3/aQv/+vf/fRP/lWf/dxn/fA3/9e//zK//dzHy59b03Mb/s5b/gUT/7OH/xaX/5db/vZf/sH//t4v/iS7/hSL/3sz8oWL2za/02MD/zbr/rY39k0f6pX3/t5v9klT7pnb+hz//nXP/1cX/n1//jjr/jFn/vaT/iFH2yqr107j6tYb+jUv/gDD/oHj/qYf/xK74upr9lVH/fj/QL3siAAAJIElEQVR4nO2daVfiPBSALUKalraBjoAUhJHKIoviDIrMjDib+v//0dsC2nRLCpTJm5Lno3I83Ofc3NwsrScnAoFAIBAIBAKBQCAQCAQCgUAgEAgEAoHg8FQ7w3nTdm", Acequia
+#EXTGRP:unsorted
+http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUQEhMVFhIVFhcVFRUWFRUXFxgVFRUWFhUSFRYYHSggGBolHRUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGxAQGy0mICUtLS8tLy0tLTAtLS0tLS0tLS0tLS0tLS0vLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYDBAcCAQj/xABEEAABAwICBggDBQYFAwUAAAABAAIDBBEFIQYSMUFRYQcTIjJxgZGhQlLRFGJyscEjU4KS4fAWQ6KywhUzVBc1Y3OT/8QAHAEBAAIDAQEBAAAAAAAAAAAAAAQFAQIDBgcI/8QAPREAAgIBAQUECAQEBQUBAAAAAAECAwQRBRIhMUEGE1FxFCIyYYGRodFCUrHBIzPh8AcVF", Airevision Digital
+#EXTGRP:unsorted
+http://airevision.ddns.net:1935/live/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAARAAAAC5CAMAAADXsJC1AAAA7VBMVEX///8AAAAAr+8Are8Aq+76+voAqe7W1tYjIyO7u7v09PRISEjQ0NCXl5cAsO/b29vy+/7r6+tXV1fo9/3k5OSMjIzY8fz4/f9OTk7FxcUntvDk9v2d2vc4uvGvr685OTlpyPTL6/uAgIAwMDBAQEDC6PqQ1faC0PWl3fhxyvRZw/NkZGQXFxeysrLa8vy35Plra2sRERGTk5OgoKAAlcx0dHSFhYUAeKQALj8AOU6L0PVPvvJTxvNdUksQqeRDXGhANC0AVnUAJjQpQUoAiLoALEcASGMAb5iqu8UAdKBnqsoXoNUAFBwAQ12oytwHmfntAAASZ0lEQVR4nO1dfX+bOrK2kUzeCQkuxLJJcJyATRq7PWl7zpbcc7a73d27d1++/8e5MyPEmyHGNnlxfjx/tA5IID2MRiNpRup0Wr", Cadena 103
+#EXTGRP:unsorted
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSERUSEhIVFhUVGBcVGRgYGBUdFxcYFxgWFhgXGB0ZHSggGBslHRUVITEhJSkrLy4uGB8zODMsNygtLisBCgoKDg0OGxAQGy8mICYtLS8tLy0tLS0tLSsvLS0tLS8vLS0tLS0tLS0tLS0tLS8tLS0tLS8tLS8tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcDBAUCAQj/xABLEAACAQIBCAYGBgYJAgcAAAABAgADEQQFBhIhMUFRYQcTInGBkTJCUqGxwRQjYnKi0VOSssLh8CQzQ3OCs9Li8aPjFhc0NVSDk//EABsBAQACAwEBAAAAAAAAAAAAAAAEBQIDBgEH/8QAOhEAAgEDAQQHBwMEAgIDAAAAAAECAwQRIQUSMUEyUWFxkbHREyKBocHh8AYzQ", Cadena Sudeste
+#EXTGRP:unsorted
+http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAOMAAADeCAMAAAD4tEcNAAABKVBMVEX///98gXvl4Tvm5uYjkc84l0JbW19wpjteXmL8/PxdXWL39/ft7e309PTz8/NhYWRzc3ednZ/a2tuDg4bHx8nJ3rN7s0JzqzuxsbNpaW51dXni4uJubnJ8fH6/v8DMzM2Tk5akpKbp5TjO4L2EtlOJiYy5ubozmj6Pj5Lu9vuEiYOqqq3t6TjU1NWgoKL7++ju9u+qy4n6+c79/fMond3d7vfQ5tKZnZiusa3b7N2Znpns8+V1sDqXvnCQv2P7+tzz8E1jteP08WWNyOuk0u3z8aLz8Hv08o3J5PTo5WOczKFhsWlOqVdCpt/498ew1rR5u3+RyJfN4Lv39bTv7FT49p/597t6v+fQ6Pa32/FPreL184X29q2/3cJLrFVut3Xd6s+30puSvGnm7B3wAAAZu0lEQVR4nO2diVfaSh", Canal 10 Rio Negro
+#EXTGRP:unsorted
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 10 TV
+#EXTGRP:unsorted
+http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAANwAAADmCAMAAACJZRt4AAAAflBMVEUAAADT09PExMSysrLHx8elpaWxsbG8vLy1tbW9vb25ubnDw8POzs7a2tpKSkrg4OB5eXlpaWlRUVGrq6sLCwuNjY2goKBGRkZnZ2dvb29AQEBhYWFbW1suLi6Xl5c1NTWCgoKMjIwdHR0YGBgmJiZ8fHzm5uYzMzMRERHv7+8UvG1sAAANi0lEQVR4nO2diZarqhKGRREHMBOJUROHJKY79/1f8IKZNCJqOg7Zx3+t0/t0t234BKGogkJRAbkKlqVmwkVZORk32XmZRWlcqCQqki6Q+yq6UJoKzJ2CgFBEqGbPo8XD0G6SPgn73BiOOA0wKilK9YrlIMV6FZIIqzRfqVrzmmsE14JugvtX4cqv2D8E90/X3ATXK9wbbA3gxINaR3DO/CanSo3H96onUXwYpSdR8SD4I6B/g5v7sz", Canal 13 Jujuy
+#EXTGRP:unsorted
+http://genexservicios.com:1935/canal13jujuy/canal13jujuy/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEBAQEBAQEBAVEBAQEBAQEBAQEBAQFRIWFhURFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGhAQGy0dHR0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS03LS0tN//AABEIAMAAwAMBEQACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIEBQYDBwj/xABJEAABAwICBAgJCAgGAwAAAAABAAIDBBEFEgYhMVEHEyJBYXGRsRQyUlRygZKh0RUjU2JzssHwFhckM0JDgpMlNDVEVYNj4fH/xAAbAQACAwEBAQAAAAAAAAAAAAAAAQIDBAUGB//EAC4RAAICAQQBBAMAAgAHAQAAAAABAhEDBBIhMUEFExRRIjJhM3EjNEJSgZGhJP/aA", Canal 13 La Rioja
+#EXTGRP:unsorted
+http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 2 Jujuy
+#EXTGRP:unsorted
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIHDRUTEBATFhUSEBESEhEVDRsSExUYFhcWFhUVFhUaKCkgGBomHRUVITMjJSkrLi4uGB81ODMtNygtLi0BCgoKDg0OGxAQGzIlICUrLS0tMC8uNy0rLy0wLS4wLis1MC0vLS0tLS0tLS0tLS01Li0tLS0tLS0tLS0tLS0tLf/AABEIAJkBSgMBEQACEQEDEQH/xAAcAAEBAQEAAwEBAAAAAAAAAAAABwUGAQQIAwL/xABHEAACAQIBBQ0EBwUHBQAAAAAAAQIDBBEFBhJRkQcTFSExNUFUYXSUs9EicYGhFyMyZKSx4kJSYoLBQ1NykpOy8BQlNESi/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAEFBAYHAwL/xAA4EQEAAQMBAwoFAwQCAwEAAAAAAQIDBBEFElETFCExNFNxcpGxBiIyM0EWYYFCUqHB0", Canal 20 Villamaria
+#EXTGRP:unsorted
+http://agtube.aldeaglobal.net.ar:8080/live/5bec4ef28bf42/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 22 Buenos Aires
+#EXTGRP:unsorted
+http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDw8ODg0QDw4PDw8PDhASEBAVEBANFhEWGBURFhUYHSggGBslGxUVLT0iJSkrMC4uFyAzODMuNygtLysBCgoKDg0OGhAQGy8mICUtLS0tLS0uKy0uMCstLS0tLS02LS0wKy8tLy0tLS0tLSsvLSstLS4tLS0tLS8tLS0rL//AABEIAOAA4AMBEQACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAAAgEDBAUGBwj/xABJEAABAwICBQcHCAgEBwAAAAABAAIDBBEFIQYSMUFRBxMyYXGBkRQiQlKhscEzNGJygpKy0RUjQ1Nzk6LwRFTh4jVjdaOzwtL/xAAbAQACAgMBAAAAAAAAAAAAAAAAAQIFAwQGB//EADgRAAIBAgIGCQQBAwQDAAAAAAABAgMEBRESITFBUXEGMmGBkaGx0fATIsHhM0Ji8", Canal 3 La Pampa
+#EXTGRP:unsorted
+https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 3 Las Heras
+#EXTGRP:unsorted
+https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 50 Morteros
+#EXTGRP:unsorted
+https://coopmorteros.online/canal50/vivo.m3u8?PlaylistM3UCL
+#EXTINF:0,CANAL 5TV
+#EXTGRP:unsorted
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 7 Santiago del estero
+#EXTGRP:unsorted
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMWFhUXGBoXGBcVFRUVFRoYGBcXFhcXFxUYHSggGBolHRcYITEhJSkrLi4vFx8zODMtNygtLisBCgoKDg0OGxAQGy0lICUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAADBAIFAQYHAAj/xABBEAABAwIEAwYDBgQEBgMBAAABAAIDBBEFEiExQVFhBhMicYGRMqHwFCNCUrHBB2Jy0YKSsvEVM2Oi4eIWk8JU/8QAGwEAAgMBAQEAAAAAAAAAAAAAAgMAAQQFBgf/xAAyEQACAgEEAQQCAQIGAQUAAAAAAQIRAwQSITFBBRMiUTJhcRRCBiOBkbHB0RUzUqHw/9oADAMBA", Canal 8 Catamarca
+#EXTGRP:unsorted
+https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAQUAAADBCAMAAADxRlW1AAAAwFBMVEX////EJSnCExnCGh/mpKbEIyfFKCv23N3CEBb++vracXT78fHCFhvkpabhmZruxsfahIb66urrvb7IMTXLPUDy8vLem52mpqZkZGRqamrX19eAgIDKysqfn5/YdXeVlZVdXV27u7vg4OBxcXHExMSHh4fo6OhXV1eurq6ZmZnS0tK8vLzIyMh3d3eMjIz67Ozy1NXAAADPUlXQWl3af4HejpDUZWfNSEvlsLHtwcLdiozKNzvvy8vBAA3SYGPotbZ//IXbAAAJRUlEQVR4nO2di3aiOheAURoVwbtUEFFAxVuxjndbW9//rf4Egpe245kzVXZ6/v2tNVMbNZCPZCexmEgSgiAIgiAIgiAIgiAIgiAIgvxMlBsCXZZ/j1LZ76rbbeGxeDMeC9vtYbfPqtBl+0Mq++3jcrGpyblc+o", Canal 9 Litoral
+#EXTGRP:unsorted
+https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/1.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal nueve
+#EXTGRP:unsorted
+https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
+#EXTINF:0,Ciudad TV
+#EXTGRP:unsorted
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8QEA8NDQ4QEA0PDw8PDQ0PEBAPGBAQFRYWGBURFRUYHiggGRolGxMTITEhJSorLi4uFx8zOzMtOCkvLisBCgoKDg0OGRAQGi0fHyUtLS0rKy8tKy0tKy4rLS0tKy0rLSstLSstKy0vKy0tKzErLSstLS8rKy0rLS8tLSstK//AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEBAAMBAQEBAAAAAAAAAAAAAQUGBwQCAwj/xABGEAACAQMBBAYECgcGBwAAAAAAAQIDBBEFBhIhMRNBUWFxkQcigaEUMjNCQ1Jyc7LRIyQ0YoKxwRUWJVOSogiTwsPS4fH/xAAbAQEBAAMBAQEAAAAAAAAAAAAAAQMEBgUCB//EADcRAQABAgIFCgYBBAMBAAAAAAABAgMEEQUhMXGxEjIzQVFhgZHR4RMicqHB8BQVQlLxI", CN Digital
+#EXTGRP:unsorted
+https://panel.dattalive.com/909050/909050/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAOUAAACCCAMAAACO5v/GAAAAY1BMVEX///8aFxuDBihTUVTGxcaMi43x8PEoJini4uKpqKlFQ0bU09Q3NDhwbnF/fX+3treamZtiYGP37/LQoa6iRF7BgpOLFjWyZHno0NeaNVDgwcnv4OSTJUPJkqG5c4bYsbyqVGteHVYJAAAK4ElEQVR4nO1c6WKcug6GeAfMkq1Jm7Z5/6e8WN4kQ9Khnckc5qI/AYONP2uXPamqgw466KCDDjrooIMOOuiggw466KCDDjro99Pva0/h4vTydnd393p/7Wlclp7ugJ6uPY9L0v2jB3n3eO2ZXJC+P9/dPsqfd4luV2K/ZZCPt2p97l8Txuef157MpQgciKfXl2tP5lL0kuzO3bdbldbqIYN8uPZcLkYPWSVvVloRSBzZaSH09eZ0dsog3xHIUdV1d71JnZsyyG+5UU61I369aZ2XMk", Conexion Abierta
+#EXTGRP:unsorted
+http://server1.mgmultimedios.com:8080/uai/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhUQERIQFhUVFRIVFRcVFRIQFRUXFRIXFhgVFRcYHSggGBolGxUVITEhJSkrLi4uGB8zODMsNygtLisBCgoKDg0OGxAQGy0mICUtLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgEDBAUHAgj/xABUEAABAwICBQcFCQoNAwUAAAABAAIDBBEFEgYhMUFRBxMiYXGBkRQyQqGxI1Jyc5KywdHSMzQ1YnSis7TT4RUWF0NEU1SCg4STwvAkJWNFVWSUo//EABsBAQADAQEBAQAAAAAAAAAAAAAEBQYDAgEH/8QANBEAAgIBAgQEBAUFAQADAAAAAAECAwQFERIhMUETM1FxIjJhg", CPE TV
+#EXTGRP:unsorted
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8?PlaylistM3UCL
+#EXTINF:0,Elonce
+#EXTGRP:unsorted
+https://elonce.zapto.org/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQDw8PDxAPDw8PDQ0PDw0PDw8PDw8PFREWFhURFRUYHSggGBolGxYVITEhJSkrLi8uFx8zODMtNygtLjcBCgoKDg0OGBAQFy0dHR4tMisvLS0tLS0tLS0tLSsrLSstLS0tKy0tKy0tLS0tLS0tLS0tLS0tLS0tLS0tLSstLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAABAgADBAUHBgj/xABSEAABAwMBAgsEAwkMCQUAAAABAAIDBBESBQYhBxMUMUFRVGFxkdEWIjKSUoHSFSNTZIKhsbPCFyQzNGJzdJOissHwQkRVo7TD0+LjNTZDVmP/xAAbAQEBAAMBAQEAAAAAAAAAAAAAAQIDBAUGB//EAEIRAAEDAgMDCAgEBQEJAAAAAAABAhEDBBIhMQUUUQYTQVNhcZGhI", Fenix
+#EXTGRP:unsorted
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAyVBMVEX///8Aqtj/4wD/6gD/6QD/6AD/5wD/5QAAqNcAptal1+wAo9VhvuHc7/cApdb/6WFFweP//vH///v//er//vT/+s//+sn//OEArdn/+9X//eb1/P7/7GD//N7/9rH//e6I0+v/9Zf/83z/+sD/9a3s+Pz/8ID/8Yv/5yj/7Eb/7Ff/9aT/8W3/7SX/7T214vLB6PSFz+luyeb/9In/7j//83j/854ltd2Z2e3S8fl+0Onf8vnG7fe44vGk3vBBtd3/6E5ax+V2x+UrpYEHAAARn0lEQVR4nO2da2OiPBOG8Qy16yqeq7VVqyIe265aa9fu7v//US9nJpCQQEL7tK/3p90qkIuZZCaTgJJ00UUXXXTRRRch6p2frr+BXjdEPrmiyN9ASuWwxQLey3Lmm0junDGEZwOwUv4WUgzIU9", GEN TV
+#EXTGRP:unsorted
+http://inliveserver.com:1935/14030/14030/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABXFBMVEX///8Ao8ymygAApsEAtWoApr8AtWgAtmMAtG8ApcYAp7wAp70AqLgAtHAArKIArKAAs3OBxAAAq6QAs3uJxgAArZsAsn4ArpZ3wwAAr5H0+d4AqqsAqbIApckAukkAqLn0/v4AsI2QxwCZyAB8xAAAuVEAsYaPxgBqwQAAt14AuFYAsoIqvD44vDjg9vT7/PBGvi5Qvybk89kOukbl9u9Zvx3M68rE69q26epbvwAAtzV/0pgmuSN/xyhOvADN7NTA696Y2Z2M1qkbvIqH1JGVzDDE5rW03o+Q031Zwz9tyWHT67xbxVPi89/e8MuRzk90yVGp2HSDzWDG5J7U6rS63YCv5/KO1+hbyN8vu9jL8vdtzYQxu9I5v1iT0Whfytiw4K1wxj5Rwk1Pwt1Fw3WG2N1GvsZ80uWg3sRty3", Litus
+#EXTGRP:unsorted
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8QERUSEBIVFhUXEBgWFRUXFRUWFhcVFRIWFhUVFhcYHSggGBoxGxUVITEhJSktLi8uFx8zOD8uNygtLisBCgoKDg0OGxAQGy0lHyUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcBBAUIAwL/xABJEAABAwIBBwcHCAkDBQEAAAABAAIDBBEFBgcSITFBURMiMmFxgZE0UnKhsbLBIzNCYnOCktEUJENjdIOiw/AVwuEWU2ST0rP/xAAbAQEAAgMBAQAAAAAAAAAAAAAABAUBAwYCB//EADcRAAIBAwIDBgUDBAICAwAAAAABAgMEEQUxEiFxBjIzQVGBEyI0YcFCcrEUI4KRF", Medios Rioja
+#EXTGRP:unsorted
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAB5lBMVEUAAAD////q6ur+vADl5eX39/fz8/Pv7+/d3d3g4ODr6+vn5+f09PTMzMz7+/vj4+PU1NTCwsL/wADY2NjFxcXR0dHDw8O7u7utra3/0wCenp62t7Y0NDSsrKyPagAgICAqKipPT0//2ACAgIBqampHR0cjGABgYGBLS0t1dXUODg6Dg4OMjIzwwwAjIyObm5sVFRXftgA7Ozv5zADrrwBZWVlxWwAbEwBmUgDXrwDMpgDpvQDFoAD/twAmGADZpABWPwAuJAA4LACQdQCEawC1kwBGMgDEkwD1pgBMPQCjhAB7ZACbfgBbSQD/5GWnkC6tjQD/2zD/9cMUDgD/7ZAtIABiRQB5VgChcwC0jijVmACrgADVjABWNwD/3ZPNkgCycgC3s6PCrEfFs17At5V+cThmXTjFtnt4bkaymi", Power
+#EXTGRP:unsorted
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,T5 SATELITAL
+#EXTGRP:unsorted
+http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8?PlaylistM3UCL
+#EXTINF:0,TELE DIEZ
+#EXTGRP:unsorted
+http://inliveserver.com:1935/8670/8670/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telefe Rosario
+#EXTGRP:unsorted
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+#EXTINF:0,Telefe Santa Fe
+#EXTGRP:unsorted
+http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIREBEPDxAVEA8PEBUQEA0QEA8QEBAQFhUWFxYYFhYYHigjGxslGxUfITEkJSk3Li86Fx8zODMwODQtLisBCgoKDg0OGxAQGy4iICYtLTIuLS0rLSstLS8tLS0vLy4rMi0wLy0tLS0tLS0vLS0rLS0rLS8tLS8tLS0tLS0tLf/AABEIAKgBLAMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYBBAcCAwj/xABREAACAgACBAcKCAgMBwAAAAABAgADBBEFBhIhBxMXMUFU0iJRU2FxgZGSlNMUJHJzsbKz0RYjMnShpMHjFSUzQkRSYmSCk6PCNDU2daK04f/EABoBAQACAwEAAAAAAAAAAAAAAAABAwIEBQb/xAA2EQEAAQICBggEBwEBAQEAAAAAAQIDBBESFSFRUqEFExQxYXHR4TJBs", Telenord Corrientes
+#EXTGRP:unsorted
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8QEA8QEg8VFRAQEA8VEhAQDQ8WEA8VFRUYFhUVFRcYHSggGBolHRcVITEhJSkrLi4uFx8zODMtNyktLisBCgoKDg0OGhAQGy8lICYtLS0vLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMgAyAMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYBAwcCBAj/xABEEAABAwIDAwYLBQgABwAAAAABAAIDBBEFBiESMUEHE1FhcbEiMjNCcoGRkqHR8DRSU7LBFBYjYoKT0uEVJENjg7Px/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAUGAQIEAwf/xAA4EQACAQMCAgULBAICAwAAAAAAAQIDBBEFMRIhMkFRcfAGExQzNFJhkaGx0RUiQoHh8SPBF", Television Regional Unimar
+#EXTGRP:unsorted
+https://panel.dattalive.com/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8RBhIQBxIVFhARFR0YEQ8VERUVFxITFRoWGBUXFRcaHSoiHRoxHRUVLTEtJSorLi4uFyEzRDMuOigtLisBCgoKDg0OGxAQGzcmICU2Ly0rNS02Mi83Ny0tLS0rKy0vNy03Ly0tNy8tNS0tKzUtLi0tMC0tLS0tKy0vLS0tLf/AABEIAKgBLAMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcEBQgDAgH/xABLEAACAQMBBAQGDQkGBwAAAAAAAQIDBBESBQYhMQdBUXETImGBkdEyNDZCQ1JTcnSTsbKzFBUWI1Ric6HCJCYzN5LSFyc1Y4Kiwf/EABsBAQACAwEBAAAAAAAAAAAAAAAEBQEDBgIH/8QAOBEBAAEDAQQEDQMEAwAAAAAAAAECAxEEBRIhUTFhcZETFCIyNEFSgaGxweHwB", UNIFE
+#EXTGRP:unsorted
+https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough_static/unife/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,UNIRIO
+#EXTGRP:unsorted
+https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w1849553486.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAJoAAACaCAMAAABmIaElAAAAsVBMVEXrTDb////rTTcsPlHpPibrSjTqRS71pJn1qJ3wemrvbVvqQir1ppv61M/619L0nJD3vLPsVD/+9/btYEzuZVLyi33849/3s6rpOiL5x8HuaFbwd2byj4HsWEPvcV/xhnf3t67zlon96+n1TTUaPVT5zMX85+T0TTX9TTPzk4boMxptQ0jHSTvkTDc5P0/xgHCQRUNiQknUSjq3SD1GQE2jR0BWQUutSD+GRUSURkLoKxKqz+NVAAAJlUlEQVR4nO2ce3uiOBTGQ0qikiqCF1C8W612Z+q2M7s7O9//g20SbkESIBaUP/Z95qIB8WcCJycnJwHGl+VOB8POJBgvHQDgcrRa25vD1P36dcGXPr3re/bFGi0dCEQ5y5HV23qH44PQpsOztQSFcuaTzeDm+rsNze13Vk4xViw4P892d0", Uni Teve
+#EXTGRP:unsorted
+http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,UTN TV
+#EXTGRP:unsorted
+http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,5TV
+#EXTGRP:unsorted
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,9Link
+#EXTGRP:unsorted
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,10 TV
+#EXTGRP:unsorted
+http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,13 Max Television
+#EXTGRP:unsorted
+http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Aire de Santa Fe
+#EXTGRP:unsorted
+https://sc2.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Argentinisima Satelital
+#EXTGRP:unsorted
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 2 Dean Funes
+#EXTGRP:unsorted
+http://streaming.arcast.com.ar:1935/canal2deanfunes/canal2deanfunes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 2 Mar del Plata
+#EXTGRP:unsorted
+https://inliveserver.com:1936/8546/8546/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 2 Tunuyan
+#EXTGRP:unsorted
+https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 3 Pinamar
+#EXTGRP:unsorted
+http://209.182.219.229:8080/hls/canal3pinamar.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 3 Rosario
+#EXTGRP:unsorted
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 4 Bahia Blanca
+#EXTGRP:unsorted
+https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 4 Jujuy
+#EXTGRP:unsorted
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 4 Esquel
+#EXTGRP:unsorted
+https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 4 Posadas
+#EXTGRP:unsorted
+https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 4 San Juan
+#EXTGRP:unsorted
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 6 Mar del Plata
+#EXTGRP:unsorted
+https://edge1o.live.opencaster.com/caster/naxjaqigbpAm.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 6 Moreno
+#EXTGRP:unsorted
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 6 Posadas
+#EXTGRP:unsorted
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 7 Chubut
+#EXTGRP:unsorted
+http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 7 Jujuy
+#EXTGRP:unsorted
+https://59d52c5a5ce5e.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 7 Salta
+#EXTGRP:unsorted
+https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 8 Tunuyan Mendoza
+#EXTGRP:unsorted
+https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 9 Televida Mendoza
+#EXTGRP:unsorted
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 10
+#EXTGRP:unsorted
+https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 10 Mar del Plata
+#EXTGRP:unsorted
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 12 Madryn TV
+#EXTGRP:unsorted
+https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 13 San Luis
+#EXTGRP:unsorted
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,CN 24/7 Neuquen
+#EXTGRP:unsorted
+https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 26
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 79 Mar del Plata
+#EXTGRP:unsorted
+https://5d8c5887418ac.streamlock.net:1936/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 907 FM Comunicar
+#EXTGRP:unsorted
+https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal Cinco Tigre
+#EXTGRP:unsorted
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal Coop
+#EXTGRP:unsorted
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal U
+#EXTGRP:unsorted
+https://vcp.myplaytv.com:443/canalusrt/smil:canalusrt.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal XFN
+#EXTGRP:unsorted
+https://5d8c5887418ac.streamlock.net:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Cachipum TV
+#EXTGRP:unsorted
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Chacra TV
+#EXTGRP:unsorted
+https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Chaco TV
+#EXTGRP:unsorted
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,CL3 Cablevision
+#EXTGRP:unsorted
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,El 10 TV Salta
+#EXTGRP:unsorted
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,El Eco TV
+#EXTGRP:unsorted
+https://5cbda9ff89c34.streamlock.net:443/elecotv/elecotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Garage TV
+#EXTGRP:unsorted
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Lapacho TV Canal 11
+#EXTGRP:unsorted
+https://5b3050bb1b2d8.streamlock.net:443/tvcanal11/tvcanal11/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Locomotion
+#EXTGRP:unsorted
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+#EXTINF:0,Metro TV Canal 12 Tucuman
+#EXTGRP:unsorted
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
+#EXTINF:0,Multivisión
+#EXTGRP:unsorted
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Net TV
+#EXTGRP:unsorted
+https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Quatro TV
+#EXTGRP:unsorted
+https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,RTN
+#EXTGRP:unsorted
+http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0,Sicardi TV
+#EXTGRP:unsorted
+https://stmvideo2.livecastv.com/sicarditv/sicarditv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Somos Rosario
+#EXTGRP:unsorted
+http://s8.stweb.tv/chacra/rosario_abr/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TDC TV Santa Fe
+#EXTGRP:unsorted
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telecreativa
+#EXTGRP:unsorted
+https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telediario Televisión
+#EXTGRP:unsorted
+http://31.220.61.253:8090/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:0,Telemax
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telpin Canal 2
+#EXTGRP:unsorted
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Terramia TV
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0,Telesol San Juan
+#EXTGRP:unsorted
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TSN Necochea
+#EXTGRP:unsorted
+https://panel.dattalive.com/8130/8130/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TV Mana
+#EXTGRP:unsorted
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,TV Publica Fueguina
+#EXTGRP:unsorted
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8?PlaylistM3UCL
+#EXTINF:0,Music Top
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Classic Mix
+#EXTGRP:unsorted
+https://usb.bozztv.com/DIGIMEDIOS/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Retro Plus TV
+#EXTGRP:unsorted
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Rewind TV
+#EXTGRP:unsorted
+https://srv2.zcast.com.br/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Toonizaki
+#EXTGRP:unsorted
+https://inliveserver.com:1936/m3ulive/m3ulive/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 6 Entre Rios
+#EXTGRP:unsorted
+http://inliveserver.com:1935/8380/8380/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,uRV TV
+#EXTGRP:unsorted
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
